@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-17 07:51:20",
+  "timestamp": "2025-11-17 08:08:47",
   "courses": {
     "active": [
       {
@@ -37,7 +37,48 @@
     "deleted": []
   },
   "novelas": {
-    "active": [],
+    "active": [
+      {
+        "nome": "dfgfdg",
+        "diretor": "fg",
+        "genero": "fg",
+        "plataforma": "fg",
+        "anoLancamento": 3000,
+        "local": "",
+        "imdb": "",
+        "descricao": "",
+        "banner": "",
+        "estrutura": [
+          {
+            "id": "81550118-f3a7-424d-8fc6-e0c55ec563c3",
+            "type": "folder",
+            "name": "Nova Pasta",
+            "children": []
+          },
+          {
+            "id": "b77442db-725c-466a-a73e-5582e12ab072",
+            "type": "file",
+            "name": "Novo Arquivo"
+          },
+          {
+            "id": "cd959abe-61ed-4c41-802b-c320c2edc2b2",
+            "type": "folder",
+            "name": "Nova Pasta",
+            "children": []
+          },
+          {
+            "id": "958496cf-d5b2-4640-80f9-d80bf90d1ab5",
+            "type": "file",
+            "name": "Novo Arquivo"
+          }
+        ],
+        "isWatched": true,
+        "isUploaded": true,
+        "isFavorite": true,
+        "magicKey": "MK-AUHRWIDE",
+        "dbId": "mock-1763377711201"
+      }
+    ],
     "deleted": []
   },
   "consultations": [],
