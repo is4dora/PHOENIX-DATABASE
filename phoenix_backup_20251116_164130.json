@@ -1,7 +1,27 @@
 {
-  "timestamp": "2025-11-17 08:16:24",
+  "timestamp": "2025-11-17 08:25:20",
   "courses": {
     "active": [
+      {
+        "nome": "curso novo 3",
+        "professor": "sdsdasad",
+        "categoria": "sdsds",
+        "ferramenta": "sdsda",
+        "ano": 3000,
+        "local": "sda",
+        "notion": "https://www.notion.so/VIBE-CODING-2ab47fabb836808583d9d2ee8066f09d?source=copy_link",
+        "descricao": "cxzxcz",
+        "banner": "https://raw.githubusercontent.com/is4dora/PHOENIX-DATABASE/refs/heads/main/SVG/01.svg",
+        "estrutura": [],
+        "isWatched": true,
+        "isUploaded": true,
+        "isFavorite": true,
+        "magicKey": "MK-HZMN2MU6",
+        "youtube": "https://www.primevideo.com/region/na/search/ref=atv_sr_sug_nb_sb_ss_i_1_11?phrase=o%20telefone%20preto&prefix=o%20telefone%20&ie=UTF8",
+        "telegram": "https://t.me/TestePhoenixis/2",
+        "driveLink": "https://www.primevideo.com/region/na/search/ref=atv_sr_sug_nb_sb_ss_i_1_11?phrase=o%20telefone%20preto&prefix=o%20telefone%20&ie=UTF8",
+        "dbId": "mock-1763378704401"
+      },
       {
         "nome": "Curso novo 2",
         "professor": "wqqw",
