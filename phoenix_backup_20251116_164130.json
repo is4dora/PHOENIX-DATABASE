@@ -1,7 +1,27 @@
 {
-  "timestamp": "2025-11-17 08:08:47",
+  "timestamp": "2025-11-17 08:16:24",
   "courses": {
     "active": [
+      {
+        "nome": "Curso novo 2",
+        "professor": "wqqw",
+        "categoria": "wq",
+        "ferramenta": "wq",
+        "ano": 4000,
+        "local": "qw",
+        "notion": "https://youthful-flavor-cf4.notion.site/VIBE-CODING-2ab47fabb836808583d9d2ee8066f09dhttps://youthful-flavor-cf4.notion.site/VIBE-CODING-2ab47fabb836808583d9d2ee8066f09d",
+        "descricao": "sda",
+        "banner": "https://raw.githubusercontent.com/is4dora/PHOENIX-DATABASE/refs/heads/main/SVG/01.svg",
+        "estrutura": [],
+        "isWatched": true,
+        "isUploaded": true,
+        "isFavorite": true,
+        "magicKey": "MK-LP4U7HQ9",
+        "youtube": "https://www.primevideo.com/region/na/search/ref=atv_sr_sug_nb_sb_ss_i_1_11?phrase=o%20telefone%20preto&prefix=o%20telefone%20&ie=UTF8",
+        "telegram": "https://t.me/TestePhoenixis/2",
+        "driveLink": "https://www.primevideo.com/region/na/search/ref=atv_sr_sug_nb_sb_ss_i_1_11?phrase=o%20telefone%20preto&prefix=o%20telefone%20&ie=UTF8",
+        "dbId": "mock-1763378177806"
+      },
       {
         "nome": "Curso Novo",
         "professor": "fds",
